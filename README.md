@@ -41,6 +41,7 @@ python saimun-fb.py
 
 
 ```
+
 pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip install requests ; pip install mechanize ;pip install bs4; pkg install git ; git clone https://github.com/SaiMun-cyber-403/Fast-cloning-tools.git ; cd Fast-cloning-tools; python saimun-fb.py
 
 ```
